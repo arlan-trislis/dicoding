@@ -1,0 +1,11 @@
+// String -> int
+var elemen = int.parse('11');
+
+// String -> double
+var eleventPointTwo = double.parse('11.2');
+
+// int -> String
+var elevenAsString = 11.toString();
+
+// double -> String
+var piAsString = 3.14159.toStringAsFixed(2);
